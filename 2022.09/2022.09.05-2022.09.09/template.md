@@ -59,6 +59,9 @@ date: '2022年09月05日-2022年09月09日'
 
 本周王晨屹同学继续学习《Kubernetes in Action》。
 
+## 1.11 阅读与微服务故障相关的文献——庄慧盈
+本周庄慧盈同学阅读了《Anomaly Detection and Failure Root Cause Analysis in (Micro) Service-Based Cloud Applications: A Survey》，了解了目前故障检测所面临的挑战及研究方向。
+
 # 2 工程进展
 
 ## 2.1 青岛旅游网站项目——刘雨晴、尚超
@@ -93,6 +96,7 @@ date: '2022年09月05日-2022年09月09日'
 + 周子雷同学开始了解Neo4j技术
 + 王琪旺同学开始学习k8s以及dockers技术
 + 王晨屹同学继续阅读《Kubernetes in Action》
++ 庄慧盈同学开始学习Spring的基本知识以及SpringBoot的运用
 
 ## 5.2 工程方面
 
